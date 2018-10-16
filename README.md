@@ -1,6 +1,6 @@
 # appformik
 - Appformik is for me to learn basics of integrating Formik with React and Yup for validation; only focusing on functionality, not styling!
-- Create-react-app has been used to create the boilerplate of the project.
+- Create-react-app has been used to create the boilerplate for the project.
 
 # Framework and Modules 
 1. react && react-dom
@@ -10,14 +10,14 @@
 #### $yarn add formik yup
 
 # To get started
-- clone the repo using: $git clone <url>
+- Clone the repo using: $git clone <url>
 - Navigate to the project folder <appformik> and in the terminal use:
-  - a $yarn install OR $npm install // to install all the dependencies for the project
+  -  $yarn install OR $npm install // to install all the dependencies for the project
   -  $yarn start OR $npm start // run the development server
 
 # Validation 
 - https://github.com/jquense/yup
-- Crete validation schema for each each individual field using yup
+- Create validation schema for each each individual field using yup
 - Render errors and use touched to check a field visited or not
   - touched.email && errors.email && <p>errors.email</p>
 - able to custormise the error messages
