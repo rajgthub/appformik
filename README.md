@@ -6,6 +6,7 @@
 1. react && react-dom
 2. formik
 3. yup  
+4. reactstrap and bootstrap
 #### $yarn add formik yup
 
 # To get started
