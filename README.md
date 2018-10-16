@@ -1,5 +1,5 @@
 # appformik
-- Appformik is for me to learn basics of integrating Formik with React and Yup for validation. 
+- Appformik is for me to learn basics of integrating Formik with React and Yup for validation; only focusing on functionality, not styling!
 - Create-react-app has been used to create the boilerplate of the project.
 
 # Framework and Modules 
